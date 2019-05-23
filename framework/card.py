@@ -1,6 +1,13 @@
+"""
+This module contains the container class for Student Study Plan kind of Cards
+"""
+
 from framework.instance import University, Faculty, Major, Course
 
 class Study_Plan:
+    """
+    Container class for Study Plan card
+    """
     def __init__(self, university=None, faculty=None, major=None, sem_credits=None, courses=None, semester=1):
         self.university = university
         self.faculty = faculty
@@ -10,6 +17,20 @@ class Study_Plan:
         self.semester = semester
 
     def as_list(self, as_str=False):
+        """
+        Returns the `list` representation of current object
+
+        Parameters
+        ----------
+        as_str : `bool`
+            Whether you want it as objects or as raw string.
+
+        Returns
+        -------
+        `list`
+            a list of wrapper objects, ordered from university, faculty
+            major, semester, semester credits, and courses
+        """
         if as_str:
             return [
                 self.university.name,
