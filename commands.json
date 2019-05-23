@@ -1,0 +1,29 @@
+{
+    "kw_args_exactly_one": {
+        "debug": [
+            "fetch_all_universities",
+            "fetch_all_majors",
+            "fetch_all_courses",
+            "dump_embed"
+        ]
+    },
+    "zero_or_more_args": {
+        "krs" : {
+            "subcommands": [
+                "generate"
+            ],
+            
+            "flags": [
+                "uni",
+                "faculty",
+                "major"
+            ]
+        }
+    },
+    "literal_args": [
+        "say"
+    ],
+    "no_args": [
+        "ping"
+    ]
+}

@@ -1,0 +1,338 @@
+{
+    "undergrad": {
+        "unj": {
+            "aliases": [
+                "Universitas Negeri Jakarta",
+                "Kampus Pergerakan Intelektual",
+                "Kampus Hijau"
+            ],
+            "faculties": {
+                "fmipa": {
+                    "aliases": [
+                        "Fakultas Matematika dan Ilmu Pengetahuan Alam"
+                    ],
+                    "majors": {
+                        "ilkom": {
+                            "aliases": [
+                                "Ilmu Komputer"
+                            ],
+                            "courses": [
+                                ["Algoritma dan Pemrograman", 3],
+                                ["Kalkulis Differensial", 3],
+                                ["Bahasa Indonesia", 2],
+                                ["Bahasa Inggris", 2],
+                                ["Matematika Diskret 1", 3],
+                                ["Statistika Dasar", 2],
+                                ["Aljabar Linier", 3],
+                                ["Olimpisme", 1],
+                                
+                                ["Pendidikan Agama Islam", 3],
+                                ["Desain dan Pemrograman Berorientasi Objek", 3],
+                                ["Metode Numerik", 3],
+                                ["Kalkulus Integral", 3],
+                                ["Struktur Data dan Algoritma", 3],
+                                ["Pengantar Sistem Digital", 3],
+                                ["Filsafat Matematika Dan Ilmu Pengetahuan Alam", 2],
+                                ["Matematika Diskret 2", 3],
+                                
+                                ["Pendidikan Kewarganegaraan (Kewiraan)", 2],
+                                ["Etika Profesi", 2],
+                                ["Sistem Informasi Manajemen", 3],
+                                ["Arsitektur Komputer", 3],
+                                ["Analisis Numerik", 3],
+                                ["Basis Data", 3],
+                                ["Probabilitas Terapan", 3],
+                                ["Pengantar Kecerdasan Buatan", 3],
+                                 
+                                ["Ilmu Sosial Budaya dasar", 2],
+                                ["Desain dan Analisis Algoritma", 3],                            
+                                ["Organisasi Sistem Komputer", 3],
+                                ["Sistem Operasi", 3],
+                                ["Riset Operasi", 3],
+                                ["Kewirausahaan", 2],
+                                ["Rekayasa Perangkat Lunak", 3],
+
+                                ["Perancangan Sistem", 3],
+                                ["Mobile Computing", 3]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "ui": {
+            "aliases": [
+                "Universitas Indonesia"
+            ],
+            "faculties": {
+                "deffaculty1": {
+                    "majors": {
+                        "defmajor1": {
+                            "courses": [
+                                ["defcourse1",1]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "unpad": {
+            "aliases": [
+                "Universitas Padjajaran"
+            ],
+            "faculties": {
+                "deffaculty1": {
+                    "majors": {
+                        "defmajor1": {
+                            "courses": [
+                                ["defcourse1",1]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "ipb": {
+            "aliases": [
+                "Institut Pertanian Bogor"
+            ],
+            "faculties": {
+                "deffaculty1": {
+                    "majors": {
+                        "defmajor1": {
+                            "courses": [
+                                ["defcourse1",1]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "binus": {
+            "aliases": [
+                "Bina Nusantara"
+            ],
+            "faculties": {
+                "deffaculty1": {
+                    "majors": {
+                        "defmajor1": {
+                            "courses": [
+                                ["defcourse1",1]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "pnj": {
+            "aliases": [
+                "Politeknik Negeri Jakarta"
+            ],
+            "faculties": {
+                "deffaculty1": {
+                    "majors": {
+                        "defmajor1": {
+                            "courses": [
+                                ["defcourse1",1]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "itb": {
+            "aliases": [
+                "Institut teknologi Bandung"
+            ],
+            "faculties": {
+                "sbm": {
+                    "aliases": [
+                        "School of Business & Management"
+                    ],
+                    "majors": {
+                        "mgm": {
+                            "aliases": [
+                                "Management"
+                            ],
+                            "courses": [
+                                ["Capital Market", 3],
+                                ["Financial Planning", 3],
+                                ["Manajemen Bank dan Layanan Keuangan", 3],
+                                ["Managerial Accounting", 3],
+                                
+                                ["Shopper Behavior", 3],
+                                ["Brand Management", 3],
+                                ["Strategic Management", 4],
+
+                                ["Compensation Management & Employee Performance", 4],
+                                ["Organizational Development and Learning Organization", 3],
+
+                                ["Family Business", 4],
+                                ["Creativity and Innovation", 3],
+                                ["Management of Technology", 4],
+                                
+                                ["Performance Management", 4],
+                                ["Project Management", 3],
+                                ["Operation Excellent Strategy", 4],
+                                ["Supply Chain Management", 4],
+                                ["Enterprise Resources Planning", 3],
+                                
+                                ["Conflict Resolution", 4],
+                                ["Multivariat Statistics", 4],
+                                ["Modelling and Simulation for Decision Analysis", 3],
+
+
+
+                                ["International Business", 4],
+                                ["Service Marketing", 3],
+                                ["Emotional Branding", 3],
+
+                                ["Investment Management", 3],
+                                ["Islamic Banking", 3],
+                                ["Business Risk and Venture Capital", 3],
+                                ["Capital Market", 3],
+                                ["Financial Planning", 3],
+
+                                ["Organizational Anthropology", 4],
+                                ["Cross Culture and Conflict Managment", 4],
+                                ["Contemporary Human Resource Management", 4],
+                                ["Strategic Change Management", 3],
+
+                                ["Creativity and Innovation", 3],
+                                ["New Product Pevelopment", 3],
+                                ["Corporate Social Responsibility", 3],
+                                
+                                ["Quality Management", 3],
+                                ["Operations Excellent Strategy", 4],
+                                ["Supply Chain Management", 4],
+                                ["Enterprise Resources Planning", 3],
+
+                                ["Negotioation", 4],
+
+
+
+                                ["Financial Audit and Control", 4],
+                                ["Corporate Finance", 4],
+
+                                ["Retail Management", 4],
+
+                                ["Management of Technology", 4]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "telyu": {
+            "aliases": [
+                "Telkom University"
+            ],
+            "faculties": {
+                "fik": {
+                    "aliases": [
+                        "Fakultas Industri Kreatif"
+                    ],
+                    "majors": {
+                        "di": {
+                            "aliases": [
+                                "Desain Interior"
+                            ],
+                            "courses": [
+                                ["Nirmana Dwimatra", 3],
+                                ["Nirmana Trimatra", 3],
+                                ["Menggambar Konstruktif", 3],
+                                ["Menggambar Dasar", 3],
+                                ["Estetika Dasar", 3],
+                                ["Pendidikan Agama Islam dan Etika", 2],
+                                ["Pendidikan Agama Kristen dan Etika", 2],
+                                ["Pendidikan Agama Katholik dan Etika", 2],
+                                ["Pendidikan Agama Hindu dan Etika", 2],
+                                ["Pendidikan Agama Buddha dan Etika", 2],
+                                ["Pendidikan Agama Khong Hu Cu dan Etika", 2],
+
+                                ["Menggambar Konstruktif interior", 3],
+                                ["Gubahan Ruang", 3],
+                                ["Teknik Komunikasi Interior", 3],
+                                ["Pengantar dan Metodologi Desain Interior", 2],
+                                ["Sejarah Interior Pra-Modern", 2],
+                                ["Bahasa Inggris", 2],
+                                ["Bahasa Indonesia", 2],
+
+                                ["Merancang Interior I", 5],
+                                ["Desain Mebel I", 3],
+                                ["Utilitas Interior", 2],
+                                ["Konstruksi Bangunan", 2],
+                                ["Pengetahuan Bahan", 2],
+                                ["Sejarah Interior Modern", 2],
+                                ["Ergonomi", 2],
+                                ["Bahasa Inggris untuk Seni & Desain", 3],
+
+                                ["Merancang Interior II", 5],
+                                ["Desain mebel II", 3],
+                                ["Interior Digital I", 3],
+                                ["Fisika Bangunan", 2],
+                                ["Pengetahuan Bahan dan Proses", 2],
+                                ["Sistem Konstruksi Interior", 3],
+                                ["Arsitektur dan Interior Kontemporer", 2],
+
+                                ["Merancang Interior III", 5],
+                                ["Desain Mebel III", 3],
+                                ["Interior Digital II", 3],
+                                ["Exhibition / Stand Design", 3],
+                                ["Psikologi Ruang", 2],
+                                ["Manajemen Proyek", 2],
+                                ["Kewirausahaan", 2],
+
+                                ["Merancang Interior IV", 5],
+                                ["Desain Mebel IV", 3],
+                                ["Fotografi Dasar", 3],
+                                ["Penelitian Dasar Interior", 2],
+                                ["Desain Berkelanjutan (Sustainable Design)", 2],
+                                ["Etika Profesi Desain Interior", 2],
+
+                                ["Merancang Interior V", 5],
+                                ["Tunjauan Arsitektur dan Interior", 2],
+                                ["Kerja Profesi", 2],
+                                ["Seminar", 2],
+                                ["Desain pencahayaan Interior", 2],
+                                ["Arsitektur dan Interior Nusantara", 2],
+
+                                ["Tugas Akhir / Skripsi", 6],
+
+                                ["MK Pilihan : Maket", 3],
+                                ["MK Pilihan : Eksperimental Desain", 3],
+                                ["MK Pilihan : Interior Transportasi", 3],
+                                ["MK Pilihan : Ergonomi Lanjutan (Advance)", 3],
+
+                                ["Eco Fashion", 3],
+                                ["Tekstil Eksperimental", 3],
+                                ["Fashion Manufacture", 3],
+                                ["Sociopreneur", 3],
+
+                                ["Seni Grafis", 3],
+                                ["Lukis Digital", 3],
+                                ["Seni Keramik", 3]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "defuni1": {
+            "aliases": [
+                "alias1"
+            ],
+            "faculties": {
+                "deffaculty1": {
+                    "majors": {
+                        "defmajor1": {
+                            "courses": [
+                                ["defcourse1",1]
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
