@@ -318,6 +318,128 @@
                 }
             }
         },
+        "unair": {
+            "aliases": [
+                "Universitas Airlangga"
+            ],
+            "faculties": {
+                "fib": {
+                    "aliases": [
+                        "Fakultas Ilmu Budaya"
+                    ],
+                    "majors": {
+                        "sasjep": {
+                            "aliases": [
+                                "Sastra Jepang"
+                            ],
+                            "courses": [
+                                ["Pendidikan Agama Islam I", 2],
+                                ["Pendidikan Agama Kristen I", 2],
+                                ["Pendidikan Agama Katholik I", 2],
+                                ["Pendidikan Agama Hindu I", 2],
+                                ["Pendidikan Agama Khong Hu Chu I", 2],
+                                ["Pendidikan Agama Buddha I", 2],
+                                ["Pancasila", 2],
+                                ["Pengantar Ilmu Budaya", 3],
+                                ["Bahasa Indonesia", 2],
+                                ["Pengantar Filsafat dan Dialektika Pemikiran", 3],
+                                ["Zero Shokyu Nihongo", 6],
+                                ["Hyoki", 2],
+                                ["Hatsuon", 2],
+                                
+                                ["Shokyu Nihongo", 6],
+                                ["Dokkai Nyumon", 2],
+                                ["Kanji Nyumon", 2],
+                                ["Shokyu Chokai", 2],
+                                ["Pengantar Kesusatraan Umum", 2],
+                                ["Pengantar Linguistik Umum", 2],
+                                ["Bahasa Inggris Dasar", 2],
+                                ["Kewarganegaraan", 2],
+                                ["Filsafat Ilmu", 2],
+                                ["Shodo", 2],
+                                
+                                ["Nihongogaku Nyumon", 2],
+                                ["Shochukyu Nihongo", 4],
+                                ["Nichijo Kanji", 2],
+                                ["Kaiwa Nyumon", 2],
+                                ["Shochukyu Dokkai", 2],
+                                ["Shuchukyu Chokai", 2],
+                                ["Nihon Bunka Nyumon", 2],
+                                ["Nihon Bungaku Nyumon", 2],
+                                ["Nihon Shakai Nyumon", 2],
+                                ["Sakubun Nyumon", 2],
+                                ["Nihon Seiji", 2],
+                                ["Aplikasi Komputer", 2],
+                                
+                                ["Chukyu Nihongo", 4],
+                                ["Chukyu Kanji", 2],
+                                ["Chukyu Chokai", 2],
+                                ["Chukyu Dokkai", 2],
+                                ["Shochukyu Sakubun", 2],
+                                ["Nichijo Kaiwa", 2],
+                                ["Nihon Jijo", 2],
+                                ["Kodai Nihonshi", 2],
+                                ["Nihon Bungakushi", 2],
+                                ["Keitaitogoron", 2],
+                                ["Imiron", 2],
+                                ["Nihon Shisou", 2],
+                                ["Bahasa Inggris Lanjutan", 2],
+                                ["Nihon Gekiron", 2],
+                                
+                                ["Chujokyu Nihongo", 2],
+                                ["Chujokyu Kanji", 2],
+                                ["Chujokyu Chokai", 2],
+                                ["Chujokyu Dokkai", 2],
+                                ["Chukyu Kaiwa", 2],
+                                ["Chukyu Sakubun", 2],
+                                ["Pengantar Penelitian dan Teori Kebudayaan", 3],
+                                ["Nihon Bunkaron", 2],
+                                ["Nihon Sanbun Kenkyu", 2],
+                                ["Kindai Nihonshi", 2],
+                                ["Goyoron", 2],
+                                ["Danwa Kenkyu", 2],
+                                ["Nihon - Indonesia Kenkeisihi", 2],
+                                ["Nihon Shi Kenkyu", 2],
+                                ["Nihon Taishu Bunka", 2],
+
+                                ["Jokyu Nihongo", 2],
+                                ["Jokyu Dokkai", 2],
+                                ["Choujokyu Sakubun", 2],
+                                ["Chujokyu Kaiwa", 2],
+                                ["Pengantar Kajian Budaya Urban", 3],
+                                ["Nihon Bungaku To Bunka Kenkyuho", 2],
+                                ["Nihongogaku Kenkyuho", 2],
+                                ["Statistik", 2],
+                                ["Nihon Bijinesu Mana", 2],
+                                ["Oyo Gengogaku", 2],
+                                ["Nihon Toshi Sakai", 2],
+                                ["Gakujutsu Dokkai", 2],
+                                
+                                ["Ronbun Sakusei", 2],
+                                ["Etika dan Estetika", 3],
+                                ["Kuliah Kerja Nyata", 3],
+                                ["Pendidikan Agama Islam II", 2],
+                                ["Pendidikan Agama Kristen II", 2],
+                                ["Pendidikan Agama Katholik II", 2],
+                                ["Pendidikan Agama Hindu II", 2],
+                                ["Pendidikan Agama Khong Hu Chu II", 2],
+                                ["Pendidikan Agama Buddha II", 2],
+                                ["Nihon Bungaku To Bunka Enshu", 3],
+                                ["Nihongogaku Enshu", 2],
+                                ["Honyaku", 2],
+                                ["Nihon Josei to Jenda Kenkyu", 2],
+                                ["Nihongo Noryoku Kohan", 2],
+                                ["Nihongo Kypjuho", 2],
+                                ["Tsuyaku", 2],
+                                ["Nihon Bijinesu yaritori", 2],
+                                
+                                ["SKRIPSI", 6]
+                            ]
+                        }
+                    }
+                }
+            }
+        },
         "defuni1": {
             "aliases": [
                 "alias1"
