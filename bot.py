@@ -2,6 +2,7 @@ import discord
 import asyncio
 import json
 import re
+import os
 
 #((?<=\=\=)\w+)
 
@@ -10,11 +11,17 @@ from core import Core
 
 #Lmao
 
-auth_file = open('auth.json')
-auth_str = auth_file.read()
-auth_data = json.loads(auth_str)
-bot_name = auth_data['bot_name']
-token = auth_data['token']
+auth_json_path = 'auth.json'
+
+if os.path.isfile(auth_json_path):
+    auth_file = open(auth_json_path)
+    auth_str = auth_file.read()
+    auth_data = json.loads(auth_str)
+    bot_name = auth_data['bot_name']
+    token = auth_data['token']
+else:
+    bot_name = os.environ["BOT_NAME_DISCORD"]
+    token = os.environ["TOKEN_DISCORD"]
 
 client = discord.Client()
 #dbprocessor = DBProcess()
