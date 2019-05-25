@@ -25,6 +25,7 @@ class Core_C(Enum):
     """
     # Credit quantification
     GENERAL_CREDITS = [18, 20, 22, 24]
+    SPARSE_MULTIPLER = [0.5, 0.75]
     
     # Slotting behavior
     # Tuple contains the name and the probability
@@ -63,7 +64,9 @@ class Core:
         if sem_credits <= 0: raise Exception('Semester Credits must be greater than zero!')
         courses_set = self.wrap_instance[3].copy()
         picks = []
-        if slot_behave==Core_C.NORMAL:
+        if slot_behave in [Core_C.NORMAL, Core_C.SPARSE]:
+            if slot_behave==Core_C.SPARSE:
+                sem_credits = int(sem_credits * rd.choice(Core_C.SPARSE_MULTIPLER.value)) + 1
             while(1):
                 if (sem_credits <= 0 or len(courses_set)==0) or sem_credits < min(courses_set, key=lambda x: x.credit).credit: break
                 if sem_credits < max(courses_set, key=lambda x: x.credit).credit: courses_set = list(filter(lambda x: x.credit < sem_credits, courses_set))

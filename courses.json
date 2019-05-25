@@ -155,68 +155,68 @@
                                 "Management"
                             ],
                             "courses": [
-                                ["Capital Market", 3],
-                                ["Financial Planning", 3],
-                                ["Manajemen Bank dan Layanan Keuangan", 3],
-                                ["Managerial Accounting", 3],
+                                ["Capital Market", 3, []],
+                                ["Financial Planning", 3, []],
+                                ["Manajemen Bank dan Layanan Keuangan", 3, []],
+                                ["Managerial Accounting", 3, []],
                                 
-                                ["Shopper Behavior", 3],
-                                ["Brand Management", 3],
-                                ["Strategic Management", 4],
+                                ["Shopper Behavior", 3, []],
+                                ["Brand Management", 3, []],
+                                ["Strategic Management", 4, []],
 
-                                ["Compensation Management & Employee Performance", 4],
-                                ["Organizational Development and Learning Organization", 3],
+                                ["Compensation Management & Employee Performance", 4, []],
+                                ["Organizational Development and Learning Organization", 3, []],
 
-                                ["Family Business", 4],
-                                ["Creativity and Innovation", 3],
-                                ["Management of Technology", 4],
+                                ["Family Business", 4, []],
+                                ["Creativity and Innovation", 3, []],
+                                ["Management of Technology", 4, []],
                                 
-                                ["Performance Management", 4],
-                                ["Project Management", 3],
-                                ["Operation Excellent Strategy", 4],
-                                ["Supply Chain Management", 4],
-                                ["Enterprise Resources Planning", 3],
+                                ["Performance Management", 4, []],
+                                ["Project Management", 3, []],
+                                ["Operation Excellent Strategy", 4, []],
+                                ["Supply Chain Management", 4, []],
+                                ["Enterprise Resources Planning", 3, []],
                                 
-                                ["Conflict Resolution", 4],
-                                ["Multivariat Statistics", 4],
-                                ["Modelling and Simulation for Decision Analysis", 3],
+                                ["Conflict Resolution", 4, []],
+                                ["Multivariat Statistics", 4, []],
+                                ["Modelling and Simulation for Decision Analysis", 3, []],
 
 
 
-                                ["International Business", 4],
-                                ["Service Marketing", 3],
-                                ["Emotional Branding", 3],
+                                ["International Business", 4, []],
+                                ["Service Marketing", 3, []],
+                                ["Emotional Branding", 3, []],
 
-                                ["Investment Management", 3],
-                                ["Islamic Banking", 3],
-                                ["Business Risk and Venture Capital", 3],
-                                ["Capital Market", 3],
-                                ["Financial Planning", 3],
+                                ["Investment Management", 3, []],
+                                ["Islamic Banking", 3, []],
+                                ["Business Risk and Venture Capital", 3, []],
+                                ["Capital Market", 3], [],
+                                ["Financial Planning", 3, []],
 
-                                ["Organizational Anthropology", 4],
-                                ["Cross Culture and Conflict Managment", 4],
-                                ["Contemporary Human Resource Management", 4],
-                                ["Strategic Change Management", 3],
+                                ["Organizational Anthropology", 4, []],
+                                ["Cross Culture and Conflict Managment", 4, []],
+                                ["Contemporary Human Resource Management", 4, []],
+                                ["Strategic Change Management", 3, []],
 
-                                ["Creativity and Innovation", 3],
-                                ["New Product Pevelopment", 3],
-                                ["Corporate Social Responsibility", 3],
+                                ["Creativity and Innovation", 3, []],
+                                ["New Product Pevelopment", 3, []],
+                                ["Corporate Social Responsibility", 3, []],
                                 
-                                ["Quality Management", 3],
-                                ["Operations Excellent Strategy", 4],
-                                ["Supply Chain Management", 4],
-                                ["Enterprise Resources Planning", 3],
+                                ["Quality Management", 3, []],
+                                ["Operations Excellent Strategy", 4, []],
+                                ["Supply Chain Management", 4, []],
+                                ["Enterprise Resources Planning", 3, []],
 
-                                ["Negotioation", 4],
+                                ["Negotioation", 4, []],
 
 
 
-                                ["Financial Audit and Control", 4],
-                                ["Corporate Finance", 4],
+                                ["Financial Audit and Control", 4, []],
+                                ["Corporate Finance", 4, []],
 
-                                ["Retail Management", 4],
+                                ["Retail Management", 4, []],
 
-                                ["Management of Technology", 4]
+                                ["Management of Technology", 4, []]
                             ]
                         }
                     }

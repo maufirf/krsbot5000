@@ -53,5 +53,7 @@ class Tag:
         if len(tags)>0:
             if len(tags)==1: return tags[0].courses
             else:
-                pass #TODO
+                common = set(tags[0])
+                for tag in tags[1:]: common = common & set(tag)
+                return list(common)
         else: raise Exception('At least one tag is needed.')
