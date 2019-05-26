@@ -35,7 +35,8 @@ class Core_C(Enum):
 
 class Core:
     """
-    Governs the study plan card generation
+    Governs the study plan card generation and wrapping
+    using the available framework.
 
     Uses the Database Processor from `DBProcess`
     """
@@ -68,6 +69,8 @@ class Core:
             if slot_behave==Core_C.SPARSE:
                 sem_credits = int(sem_credits * rd.choice(Core_C.SPARSE_MULTIPLER.value)) + 1
             while(1):
+                # TODO make the breaking conditions written better, there are two duplicate lines
+                # that i still don't know how to simplify.
                 if (sem_credits <= 0 or len(courses_set)==0) or sem_credits < min(courses_set, key=lambda x: x.credit).credit: break
                 if sem_credits < max(courses_set, key=lambda x: x.credit).credit: courses_set = list(filter(lambda x: x.credit < sem_credits, courses_set))
                 #print(len(courses_set),end=' ')

@@ -34,6 +34,7 @@ class DBProcess:
         """
         auth_file = open(path)
         auth_str = auth_file.read()
+        self.courses_path = path
         self.db = json.loads(auth_str)
         return self
 
@@ -45,7 +46,7 @@ class DBProcess:
         ----------
         prune_defaults : `bool`
             States whether you want to remove the default placeholders
-            or not.
+            or not. The default value is `True`
 
         Return
         ------
@@ -82,6 +83,7 @@ class DBProcess:
 
         return luni, lfac, lmaj, lcou
 
+# Below are the deprecated functions
 
     #'''
     def courses_from(self, grade, university, faculty, major, unique=True, prune_defaults=True):
